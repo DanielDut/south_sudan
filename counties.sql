@@ -14,7 +14,14 @@ INSERT INTO `counties` (`name`, `state_id`) VALUES
 ('Mvolo', 1), 
 ('Aweil South', 2), 
 ('Aweil Centre', 2), 
-('Aweil East', 3), 
+('Baach', 3), 
+('Madhol', 3), 
+('Malualbaai', 3), 
+('Mangartong', 3), 
+('Mangok', 3), 
+('Warguet', 3), 
+('Wunlang', 3), 
+('Yargot', 3), 
 ('Pibor', 4), 
 ('Pochalla', 4), 
 ('Akobo', 5), 
@@ -29,7 +36,8 @@ INSERT INTO `counties` (`name`, `state_id`) VALUES
 ('Melut', 7), 
 ('Baliet', 7), 
 ('Akoka', 7), 
-('Pigi', 7), 
+('Korfluss', 7),
+('Atar', 7), 
 ('Koma', 7), 
 ('Anzara', 8), 
 ('Yambio', 8), 
@@ -92,4 +100,5 @@ INSERT INTO `counties` (`name`, `state_id`) VALUES
 ('Yei', 28), 
 ('Kajo-keji', 28), 
 ('Morobo', 28), 
-('Lainya', 28)
+('Lainya', 28);
+
