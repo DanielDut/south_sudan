@@ -5,3 +5,4 @@ Concise info of the Republic of South Sudan
 **MySQL code snippets for**
 
 1. States
+2. Counties
