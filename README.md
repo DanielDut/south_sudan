@@ -2,8 +2,6 @@
 Concise info of the Republic of South Sudan
 
 ### Included Info
-**MySQL code snippets for**\s\s
+**MySQL code snippets for**
 
-## Included Info
-MySQL code snippets for:
 1. States
